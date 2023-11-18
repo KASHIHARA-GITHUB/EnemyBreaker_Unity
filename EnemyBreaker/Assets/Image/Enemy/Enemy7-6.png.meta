@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: e6f45b58169fcbc45aac99856f453b05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5343802815857743607
+    second: pipo-mapeffect012g_0
+  - first:
+      213: 3441499495636510439
+    second: pipo-mapeffect012g_1
+  - first:
+      213: 6029260826315726108
+    second: pipo-mapeffect012g_2
+  - first:
+      213: 2588744230061475122
+    second: pipo-mapeffect012g_3
+  - first:
+      213: 6902204921071207759
+    second: pipo-mapeffect012g_4
+  - first:
+      213: -5238619782508279976
+    second: pipo-mapeffect012g_5
+  - first:
+      213: 890971027924017058
+    second: pipo-mapeffect012g_6
+  - first:
+      213: -3641224913820840377
+    second: pipo-mapeffect012g_7
+  - first:
+      213: -6914967832173713206
+    second: pipo-mapeffect012g_8
+  - first:
+      213: 3074769501150492823
+    second: pipo-mapeffect012g_9
+  - first:
+      213: -3570720224713193172
+    second: pipo-mapeffect012g_10
+  - first:
+      213: -5014926444518628307
+    second: pipo-mapeffect012g_11
+  - first:
+      213: -4613616728770151240
+    second: pipo-mapeffect012g_12
+  - first:
+      213: -9016841128805947792
+    second: pipo-mapeffect012g_13
+  - first:
+      213: -2167035569440639471
+    second: pipo-mapeffect012g_14
+  - first:
+      213: 6756937068040325509
+    second: pipo-mapeffect012g_15
+  - first:
+      213: -8522122164249310588
+    second: pipo-mapeffect012g_16
+  - first:
+      213: 465266079260195808
+    second: pipo-mapeffect012g_17
+  - first:
+      213: 2541999613376291421
+    second: pipo-mapeffect012g_18
+  - first:
+      213: 8231190838582470879
+    second: pipo-mapeffect012g_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 731
+        width: 126
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9092113d6aff6d5b0800000000000000
+      internalID: -5343802815857743607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 731
+        width: 120
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6a914be89a2cf20800000000000000
+      internalID: 3441499495636510439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 731
+        width: 100
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d1ab2f6cc3ca350800000000000000
+      internalID: 6029260826315726108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_3
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 731
+        width: 107
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235082759211de320800000000000000
+      internalID: 2588744230061475122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_4
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 731
+        width: 123
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4507676ece89cf50800000000000000
+      internalID: 6902204921071207759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 491
+        width: 127
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857824e201fac47b0800000000000000
+      internalID: -5238619782508279976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 491
+        width: 116
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af5398ed6d5d5c00800000000000000
+      internalID: 890971027924017058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_7
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 491
+        width: 97
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e0860ab35c77dc0800000000000000
+      internalID: -3641224913820840377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_8
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 491
+        width: 112
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8680ac4691900a0800000000000000
+      internalID: -6914967832173713206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_9
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 491
+        width: 125
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798b74a0296cbaa20800000000000000
+      internalID: 3074769501150492823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 251
+        width: 125
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29caa5cfd0427ec0800000000000000
+      internalID: -3570720224713193172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 251
+        width: 114
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2421cb08f6676ab0800000000000000
+      internalID: -5014926444518628307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 251
+        width: 97
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcfad7770429ffb0800000000000000
+      internalID: -4613616728770151240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_13
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 251
+        width: 110
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076a36144cebdd280800000000000000
+      internalID: -9016841128805947792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_14
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 251
+        width: 123
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116badb81a42de1e0800000000000000
+      internalID: -2167035569440639471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 11
+        width: 127
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589863ea67675cd50800000000000000
+      internalID: 6756937068040325509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 11
+        width: 118
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48acf633b075bb980800000000000000
+      internalID: -8522122164249310588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_17
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 11
+        width: 99
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebb754b805f47600800000000000000
+      internalID: 465266079260195808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_18
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 11
+        width: 105
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5269762e2ff64320800000000000000
+      internalID: 2541999613376291421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipo-mapeffect012g_19
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 11
+        width: 121
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8682cf4701b3270800000000000000
+      internalID: 8231190838582470879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
