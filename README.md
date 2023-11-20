@@ -75,8 +75,8 @@ http://
   
 　プレイヤーの体力がゼロになると、残念ながらゲームオーバーとなります。
 
-　<img src="https://github.com/KASHIHARA-GITHUB/EnemyBreaker_Unity/assets/69448136/3c9f0305-3056-4ef7-9ff4-6fef49275bb9" alt="代替テキスト" width="40%" />
-　<img src="https://github.com/KASHIHARA-GITHUB/EnemyBreaker_Unity/assets/69448136/001c2151-2f6b-4697-b28b-66bec1734840" alt="代替テキスト" width="40%" />
+　<img src="./ゲーム画面1.png" alt="代替テキスト" width="40%" />
+　<img src="./ゲーム画面2.png" alt="代替テキスト" width="40%" />
 
  ★ランキング画面
 
