@@ -118,7 +118,7 @@ public class SC_Enemy : MonoBehaviour
             GameObject w_Item = Instantiate(OB_HpPrefab, OB_Items.GetComponent<RectTransform>()) as GameObject;
             ItemOptionSet(w_Item);
         }
-        else if (UnityEngine.Random.value > 0.5)
+        else if (UnityEngine.Random.value > 0.4)
         {
             GameObject w_Item = Instantiate(OB_ExpPrefab, OB_Items.GetComponent<RectTransform>()) as GameObject;
             ItemOptionSet(w_Item);
